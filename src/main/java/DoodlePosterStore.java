@@ -1,6 +1,6 @@
 import org.openqa.selenium.By;
 
-public class DoodlePosterStore extends Browser {
+public class DoodlePosterStore extends Browser{
 
 
     public GoogleWalletPopUp beginPurchase(){
